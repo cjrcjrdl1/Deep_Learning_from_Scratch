@@ -6,6 +6,6 @@ Chapter 2 퍼셉트론 (O)
 
 Chapter 3 신경망 (O)
 
-Chapter 4 신경망 학습(30%)
+Chapter 4 신경망 학습(80%)
 
 
