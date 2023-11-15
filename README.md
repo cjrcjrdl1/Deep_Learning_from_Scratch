@@ -14,6 +14,7 @@ Chapter 4 신경망 학습(O)
 Chapter 5 오차역전파 (O)
 
 Chapter 6 학습관련기술들 (O)
+최적화기법 - SGD, Momentum, AdaGrad, Adam
 
 2023.11.02(목) 전체 학습 완
 
